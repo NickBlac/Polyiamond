@@ -23,6 +23,9 @@ const count = ref(0)
     Count is: {{count}}
     </button>
   </div>
+  <div>
+    
+  </div>
 </template>
 
 <style scoped>
