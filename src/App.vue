@@ -24,7 +24,7 @@ const count = ref(0)
     </button>
   </div>
   <div>
-    
+    text
   </div>
 </template>
 
